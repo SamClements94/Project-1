@@ -30,7 +30,13 @@ Investigating the correlation between income level and the prevalence of disease
 
 What is the most prevalent disease in each state?
 
+​	Chart disease cases by state - Sam
+
+​	Chart disease frequency by year
+
 What is the average income in each state over a date range?
+
+​	Chart average income by state
 
 Which diseases are most common in low-income states? High income states? 
 
